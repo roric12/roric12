@@ -2,7 +2,7 @@
   PLANTILLA DE PARTIDA — Activitat 3: El meu repositori de perfil professional
   ============================================================================
   1. Substitueix TOTS els camps entre claudàtors [...]
-  2. Busca i reemplaça "EL-TEU-USUARI" pel teu usuari real de GitHub (apareix
+  2. Busca i reemplaça "roric12" pel teu usuari real de GitHub (apareix
      diversos cops). A VS Code: Ctrl+H
   3. Reescriu els textos amb les teves pròpies paraules.
 
@@ -30,10 +30,10 @@
   width="100%">
 
 <!-- Títol que s'escriu sol. Les frases van a "lines=", separades per ; -->
-<a href="https://github.com/EL-TEU-USUARI">
+<a href="https://github.com/roric12">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Hola!+Em+dic+%5BEl+teu+nom%5D+%F0%9F%91%8B;Estudiant+de+Sistemes+Microinform%C3%A0tics+i+Xarxes;Xarxes+%C2%B7+Ciberseguretat+%C2%B7+Scripting"
-    alt="Hola! Em dic [El teu nom]. Estudiant de Sistemes Microinformàtics i Xarxes.">
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Hola!+Em+dic+Marc+Bruguera+%F0%9F%91%8B;Estudiant+de+Sistemes+Microinform%C3%A0tics+i+Xarxes;Xarxes+%C2%B7+Ciberseguretat+%C2%B7+Scripting"
+    alt="Hola! Em dic Marc Bruguera. Estudiant de Sistemes Microinformàtics i Xarxes.">
 </a>
 
 <!--
@@ -70,7 +70,7 @@
 
 ## 👤 Qui sóc
 
-Em dic **[nom i cognom]** i tinc [edat] anys. Curso el **CFGM de Sistemes
+Em dic **Marc Bruguera** i tinc [edat] anys. Curso el **CFGM de Sistemes
 Microinformàtics i Xarxes** a [nom del centre].
 
 M'he decidit per aquest cicle perquè [el teu motiu real: sempre has desmuntat
@@ -191,9 +191,9 @@ millor efecte que una llista inflada. Més icones a https://simpleicons.org</sub
 
 | Projecte | Descripció | Tecnologies |
 |---|---|---|
-| [[Nom](https://github.com/EL-TEU-USUARI/nom-del-repo)] | [Què has fet i què has après] | [Eines] |
-| [[Nom](https://github.com/EL-TEU-USUARI/nom-del-repo)] | [Què has fet i què has après] | [Eines] |
-| [[Nom](https://github.com/EL-TEU-USUARI/nom-del-repo)] | [Què has fet i què has après] | [Eines] |
+| [[Nom](https://github.com/roric12/nom-del-repo)] | [Què has fet i què has après] | [Eines] |
+| [[Nom](https://github.com/roric12/nom-del-repo)] | [Què has fet i què has après] | [Eines] |
+| [[Nom](https://github.com/roric12/nom-del-repo)] | [Què has fet i què has après] | [Eines] |
 
 </details>
 
@@ -262,15 +262,15 @@ teu propi PC per jugar, un servidor domèstic per a música...]
 
 <!--
   Aquestes targetes es generen al moment amb les teves dades reals: canvien
-  soles a mesura que vas fent commits. Recorda substituir EL-TEU-USUARI.
+  soles a mesura que vas fent commits. Recorda substituir roric12.
   El paràmetre theme=transparent fa que s'adapti al mode clar i al fosc.
 -->
 
 <img height="150" alt="Estadístiques del meu GitHub"
-  src="https://github-readme-stats.vercel.app/api?username=EL-TEU-USUARI&show_icons=true&theme=transparent&hide_border=true&locale=ca&title_color=0A66C2&icon_color=00C6AB">
+  src="https://github-readme-stats.vercel.app/api?username=roric12&show_icons=true&theme=transparent&hide_border=true&locale=ca&title_color=0A66C2&icon_color=00C6AB">
 
 <img height="150" alt="Llenguatges que faig servir"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-TEU-USUARI&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=0A66C2">
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=roric12&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=0A66C2">
 
 </div>
 
@@ -280,7 +280,7 @@ teu propi PC per jugar, un servidor domèstic per a música...]
 
 <div align="center">
 
-<a href="https://github.com/EL-TEU-USUARI">
+<a href="https://github.com/roric12">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="El meu GitHub">
 </a>
 <a href="mailto:el.teu.correu@exemple.com">
