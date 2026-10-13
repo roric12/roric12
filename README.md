@@ -154,31 +154,27 @@ pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
 
 ---
 
-## 💻 Projectes i pràctiques
+## 💻 Projectes personals
 
 <details open>
-<summary><b>Les meves pràctiques</b></summary>
+<summary><b>Els meus projectes</b></summary>
 
 <br>
 
-| Projecte | Descripció | Tecnologies |
-|---|---|---|
-| [[Nom](https://github.com/roric12/nom-del-repo)] | [Què has fet i què has après] | [Eines] |
-| [[Nom](https://github.com/roric12/nom-del-repo)] | [Què has fet i què has après] | [Eines] |
-| [[Nom](https://github.com/roric12/nom-del-repo)] | [Què has fet i què has après] | [Eines] |
+| Projecte | Descripció | Tecnologies | Codi |
+|---|---|---|---|
+| Web d'optimització de PC per a gamers | Projecte propi amb una part web per ajudar a optimitzar PCs per jugar | [PENDENT] | 🔒 Repositori privat |
+| Script d'optimització de Windows | Automatitza ajustos de rendiment del sistema, dels serveis i de les aplicacions | Windows · [PENDENT] | 🔒 Repositori privat |
+| App de postformat | Ajuda a configurar un PC just després de formatejar-lo: instal·lació i configuració de jocs i optimització de les aplicacions i els serveis de Windows | Windows · [PENDENT] | 🔒 Repositori privat |
 
 </details>
 
 <details>
-<summary><b>💡 Idees si encara no tens projectes propis</b></summary>
+<summary><b>🔜 Pròxim projecte</b></summary>
 
 <br>
 
-- Documentació d'un muntatge d'un PC pas a pas, amb fotos
-- Instal·lació i configuració d'una màquina virtual amb Linux
-- Maqueta d'una xarxa local amb Cisco Packet Tracer
-- Script de còpies de seguretat automàtiques
-- Apunts del cicle en Markdown, organitzats per mòduls
+- [ ] Crear una **ISO pròpia de Windows** optimitzada.
 
 </details>
 
