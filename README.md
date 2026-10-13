@@ -129,6 +129,11 @@ pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+**Desenvolupament web**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+
 **Eines**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -163,9 +168,9 @@ pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
 
 | Projecte | Descripció | Tecnologies | Codi |
 |---|---|---|---|
-| Web d'optimització de PC per a gamers | Projecte propi amb una part web per ajudar a optimitzar PCs per jugar | [PENDENT] | 🔒 Repositori privat |
-| Script d'optimització de Windows | Automatitza ajustos de rendiment del sistema, dels serveis i de les aplicacions | Windows · [PENDENT] | 🔒 Repositori privat |
-| App de postformat | Ajuda a configurar un PC just després de formatejar-lo: instal·lació i configuració de jocs i optimització de les aplicacions i els serveis de Windows | Windows · [PENDENT] | 🔒 Repositori privat |
+| Web d'optimització de PC per a gamers | Projecte propi amb una part web per ajudar a optimitzar PCs per jugar | TypeScript · CSS | 🔒 Repositori privat |
+| Script d'optimització de Windows | Automatitza ajustos de rendiment del sistema, dels serveis i de les aplicacions | PowerShell | 🔒 Repositori privat |
+| App de postformat | Ajuda a configurar un PC just després de formatejar-lo: instal·lació i configuració de jocs i optimització de les aplicacions i els serveis de Windows | Python | 🔒 Repositori privat |
 
 </details>
 
