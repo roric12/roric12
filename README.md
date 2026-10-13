@@ -122,27 +122,20 @@ pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-**Xarxes i infraestructura**
+**Scripting i desenvolupament**
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-**Scripting i eines**
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Eines**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 </div>
-
-<sub>Esborra el que encara no hagis tocat gens: un perfil honest de 1r d'SMX fa
-millor efecte que una llista inflada. Més icones a https://simpleicons.org</sub>
 
 <details>
 <summary><b>📊 On estic ara mateix (autoavaluació)</b></summary>
@@ -151,13 +144,11 @@ millor efecte que una llista inflada. Més icones a https://simpleicons.org</sub
 
 | Àmbit | Nivell |
 |---|---|
+| Sistemes operatius | ![80%](https://img.shields.io/badge/-80%25-0A66C2?style=flat-square) |
+| Scripting | ![75%](https://img.shields.io/badge/-75%25-0A66C2?style=flat-square) |
 | Hardware i manteniment | ![60%](https://img.shields.io/badge/-60%25-0A66C2?style=flat-square) |
-| Sistemes operatius | ![60%](https://img.shields.io/badge/-60%25-0A66C2?style=flat-square) |
 | Xarxes | ![40%](https://img.shields.io/badge/-40%25-00C6AB?style=flat-square) |
-| Scripting | ![40%](https://img.shields.io/badge/-40%25-00C6AB?style=flat-square) |
 | Ciberseguretat | ![20%](https://img.shields.io/badge/-20%25-lightgrey?style=flat-square) |
-
-<sub>Ajusta els percentatges a la teva situació real i ves-los actualitzant.</sub>
 
 </details>
 
