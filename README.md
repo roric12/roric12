@@ -178,10 +178,6 @@ Hi ha dos camins que m'interessen: l'enginyeria d'IA i la ciberseguretat. Encara
 </tr>
 </table>
 
-### 🌱 I fora de la informàtica...
-
-- [PENDENT: interessos personals]
-
 ---
 
 ## 📈 La meva activitat a GitHub
