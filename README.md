@@ -57,6 +57,28 @@ propis centrats en l'optimització i la configuració de Windows.
 
 ---
 
+## 💼 Experiència
+
+<details open>
+<summary><b>🖥️ Tècnic de helpdesk · Empresa del sector retail</b></summary>
+
+<br>
+
+**Suport tècnic.** Atenc les incidències informàtiques del personal de l'empresa
+com a tècnic de helpdesk.
+
+**Gestió de l'inventari informàtic.** Porto tota la gestió de l'inventari
+informàtic de l'empresa: tinc el control dels equips i de la informació que
+se'n registra.
+
+**Automatització amb IA.** Actualment estic automatitzant aquesta gestió
+d'inventari amb IA. Per fer-ho, estic construint una aplicació pròpia que
+m'ha de permetre reduir la feina manual i mantenir l'inventari al dia.
+
+</details>
+
+---
+
 ## 📚 Què estic estudiant
 
 Actualment curso **[1r/2n] d'SMX**. Desplega cada bloc per veure què hi treballo:
