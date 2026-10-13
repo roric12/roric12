@@ -40,7 +40,12 @@ Microinformàtics i Xarxes** a l'Escola Pia de Mataró.
 
 Compagino els estudis amb les pràctiques del cicle com a tècnic de helpdesk i
 amb projectes propis centrats en l'optimització i la configuració de Windows.
-[PENDENT: per què vas triar SMX i què és el que més t'agrada d'aquest món]
+
+Des de petit m'ha interessat la tecnologia i m'agradaven molt els videojocs.
+Quan vaig muntar el meu primer PC em vaig adonar que aquest era el sector on
+volia treballar, i per això vaig triar SMX. Aquella curiositat per entendre com
+funciona un ordinador per dins és el que avui m'ha portat a crear eines per
+optimitzar i configurar PCs.
 
 ### 🔎 Tres coses més sobre mi
 
