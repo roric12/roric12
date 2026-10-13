@@ -223,17 +223,11 @@ Hi ha dos camins que m'interessen: l'enginyeria d'IA i la ciberseguretat. Encara
 
 <div align="center">
 
-<!--
-  Aquestes targetes es generen al moment amb les teves dades reals: canvien
-  soles a mesura que vas fent commits. Recorda substituir roric12.
-  El paràmetre theme=transparent fa que s'adapti al mode clar i al fosc.
--->
-
 <img height="150" alt="Estadístiques del meu GitHub"
-  src="https://github-readme-stats.vercel.app/api?username=roric12&show_icons=true&theme=transparent&hide_border=true&locale=ca&title_color=0A66C2&icon_color=00C6AB">
+  src="https://github-readme-stats.vercel.app/api?username=Roric12&show_icons=true&theme=transparent&hide_border=true&locale=ca&title_color=0A66C2&icon_color=00C6AB">
 
 <img height="150" alt="Llenguatges que faig servir"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=roric12&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=0A66C2">
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roric12&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=0A66C2">
 
 </div>
 
@@ -243,18 +237,16 @@ Hi ha dos camins que m'interessen: l'enginyeria d'IA i la ciberseguretat. Encara
 
 <div align="center">
 
-<a href="https://github.com/roric12">
+<a href="https://github.com/Roric12">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="El meu GitHub">
 </a>
-<a href="mailto:el.teu.correu@exemple.com">
+<a href="mailto:alu.marc.bruguera@mataro.epiaedu.cat">
   <img src="https://img.shields.io/badge/Correu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="El meu correu">
 </a>
 
-<!-- Opcional: LinkedIn. No hi posis telèfon ni adreça: el perfil és públic. -->
-
 <br><br>
 
-<sub>Gràcies per passar-hi! · Perfil fet amb Visual Studio Code, Markdown i Git · [any]</sub>
+<sub>Gràcies per passar-hi! · Perfil fet amb Visual Studio Code, Markdown i Git · 2026</sub>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6AB,100:0A66C2&height=120&section=footer&text=&fontSize=0"
