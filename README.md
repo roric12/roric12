@@ -100,25 +100,26 @@ pràctiques (FCT) en una empresa del sector retail.
 
 **Sistemes operatius**
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows" title="Windows">
+<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux">
 
 **Scripting i desenvolupament**
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=powershell" width="48" alt="PowerShell" title="PowerShell">
+<img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash" title="Bash">
+<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python">
 
 **Desenvolupament web**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS">
 
 **Eines**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" title="VS Code">
+<img src="https://skillicons.dev/icons?i=md" width="48" alt="Markdown" title="Markdown">
+<img src="assets/claude.svg" width="48" alt="Claude" title="Claude">
 
 </div>
 
