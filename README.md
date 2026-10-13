@@ -1,28 +1,28 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C6AB&height=160&section=header&text=&fontSize=0"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=160&section=header&text=&fontSize=0"
   alt=""
   width="100%">
 
 <a href="https://github.com/Roric12">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Hola!+S%C3%B3c+en+Marc+%F0%9F%91%8B;Estudiant+de+2n+d%27SMX+%C2%B7+Helpdesk;Automatitzaci%C3%B3+%C2%B7+IA+%C2%B7+Ciberseguretat"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Hola!+S%C3%B3c+en+Marc+%F0%9F%91%8B;Estudiant+de+2n+d%27SMX+%C2%B7+Helpdesk;Automatitzaci%C3%B3+%C2%B7+IA+%C2%B7+Ciberseguretat"
     alt="Hola! Sóc en Marc. Estudiant de 2n d'SMX · Helpdesk. Automatització · IA · Ciberseguretat.">
 </a>
 
 <br>
 
-![Estudiant SMX](https://img.shields.io/badge/Estudiant-SMX-0A66C2?style=for-the-badge)
-![Curs](https://img.shields.io/badge/Curs-2n-00C6AB?style=for-the-badge)
-![Pràctiques](https://img.shields.io/badge/Pr%C3%A0ctiques-Helpdesk-0A66C2?style=for-the-badge)
-![Ubicació](https://img.shields.io/badge/Catalunya-🇪🇸-lightgrey?style=for-the-badge)
+![Estudiant SMX](https://img.shields.io/badge/Estudiant-SMX-7C3AED?style=for-the-badge)
+![Curs](https://img.shields.io/badge/Curs-2n-06B6D4?style=for-the-badge)
+![Pràctiques](https://img.shields.io/badge/Pr%C3%A0ctiques-Helpdesk-7C3AED?style=for-the-badge)
+![Ubicació](https://img.shields.io/badge/Catalunya-🇪🇸-06B6D4?style=for-the-badge)
 
 <a href="mailto:alu.marc.bruguera@mataro.epiaedu.cat">
-  <img src="https://img.shields.io/badge/Escriu--me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correu electrònic">
+  <img src="https://img.shields.io/badge/Escriu--me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Correu electrònic">
 </a>
 <a href="#-contacte">
-  <img src="https://img.shields.io/badge/Contacte-181717?style=for-the-badge&logo=github&logoColor=white" alt="Anar a contacte">
+  <img src="https://img.shields.io/badge/Contacte-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Anar a contacte">
 </a>
 
 <br><br>
@@ -126,11 +126,11 @@ pràctiques (FCT) en una empresa del sector retail.
 
 | Àmbit | Nivell |
 |---|---|
-| Sistemes operatius | ![80%](https://img.shields.io/badge/-80%25-0A66C2?style=flat-square) |
-| Scripting | ![75%](https://img.shields.io/badge/-75%25-0A66C2?style=flat-square) |
-| Hardware i manteniment | ![60%](https://img.shields.io/badge/-60%25-0A66C2?style=flat-square) |
-| Xarxes | ![40%](https://img.shields.io/badge/-40%25-00C6AB?style=flat-square) |
-| Ciberseguretat | ![20%](https://img.shields.io/badge/-20%25-lightgrey?style=flat-square) |
+| Sistemes operatius | ![80%](https://img.shields.io/badge/-80%25-7C3AED?style=flat-square) |
+| Scripting | ![75%](https://img.shields.io/badge/-75%25-7C3AED?style=flat-square) |
+| Hardware i manteniment | ![60%](https://img.shields.io/badge/-60%25-7C3AED?style=flat-square) |
+| Xarxes | ![40%](https://img.shields.io/badge/-40%25-06B6D4?style=flat-square) |
+| Ciberseguretat | ![20%](https://img.shields.io/badge/-20%25-06B6D4?style=flat-square) |
 
 ---
 
@@ -193,10 +193,10 @@ Hi ha dos camins que m'interessen: l'enginyeria d'IA i la ciberseguretat. Encara
 <div align="center">
 
 <img height="150" alt="Estadístiques del meu GitHub"
-  src="https://github-readme-stats.vercel.app/api?username=Roric12&show_icons=true&theme=transparent&hide_border=true&locale=ca&title_color=0A66C2&icon_color=00C6AB">
+  src="https://github-readme-stats.vercel.app/api?username=Roric12&show_icons=true&theme=transparent&hide_border=true&locale=ca&title_color=7C3AED&icon_color=06B6D4">
 
 <img height="150" alt="Llenguatges que faig servir"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roric12&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=0A66C2">
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roric12&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=7C3AED">
 
 </div>
 
@@ -207,10 +207,10 @@ Hi ha dos camins que m'interessen: l'enginyeria d'IA i la ciberseguretat. Encara
 <div align="center">
 
 <a href="https://github.com/Roric12">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="El meu GitHub">
+  <img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="El meu GitHub">
 </a>
 <a href="mailto:alu.marc.bruguera@mataro.epiaedu.cat">
-  <img src="https://img.shields.io/badge/Correu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="El meu correu">
+  <img src="https://img.shields.io/badge/Correu-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="El meu correu">
 </a>
 
 <br><br>
@@ -218,7 +218,7 @@ Hi ha dos camins que m'interessen: l'enginyeria d'IA i la ciberseguretat. Encara
 <sub>Gràcies per passar-hi! · Perfil fet amb Visual Studio Code, Markdown i Git · 2026</sub>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6AB,100:0A66C2&height=120&section=footer&text=&fontSize=0"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=120&section=footer&text=&fontSize=0"
   alt=""
   width="100%">
 
