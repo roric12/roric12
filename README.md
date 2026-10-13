@@ -81,10 +81,11 @@ m'ha de permetre reduir la feina manual i mantenir l'inventari al dia.
 
 ## 📚 Què estic estudiant
 
-Actualment curso **[1r/2n] d'SMX**. Desplega cada bloc per veure què hi treballo:
+Actualment curso **2n d'SMX** a l'Escola Pia de Mataró i estic fent les
+pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
 
 <details open>
-<summary><b>📦 Mòduls d'aquest curs</b></summary>
+<summary><b>📦 Mòduls del cicle</b></summary>
 
 <br>
 
@@ -96,8 +97,6 @@ Actualment curso **[1r/2n] d'SMX**. Desplega cada bloc per veure què hi treball
 | Aplicacions ofimàtiques | Documentació tècnica, fulls de càlcul i Markdown |
 | Seguretat informàtica | Còpies de seguretat, permisos i bones pràctiques |
 
-<sub>Ajusta la taula als mòduls reals del teu curs.</sub>
-
 </details>
 
 <details>
@@ -105,15 +104,11 @@ Actualment curso **[1r/2n] d'SMX**. Desplega cada bloc per veure què hi treball
 
 <br>
 
-- [ ] Configurar i administrar **xarxes locals**: VLANs, encaminament, Wi-Fi
-- [ ] Administrar servidors **Windows Server** i **Linux**
+- [ ] Aprofundir en l'**automatització** amb PowerShell, Bash i Python
+- [ ] Aplicar la **IA** a eines pràctiques, començant per la meva app d'inventari
 - [ ] Fonaments de **ciberseguretat**: enduriment de sistemes i vulnerabilitats
-- [ ] **Automatitzar** tasques repetitives amb Bash, PowerShell i Python
-- [ ] Virtualització i contenidors
-- [ ] [Certificació o objectiu concret que t'interessi]
-
-<sub>Les caselles es marquen canviant <code>- [ ]</code> per <code>- [x]</code>.
-Ves-les marcant durant el curs: és una manera de veure el teu progrés.</sub>
+- [ ] Crear una **ISO pròpia de Windows** optimitzada
+- [ ] Decidir entre el grau superior de **DAM** o d'**ASIX**
 
 </details>
 
