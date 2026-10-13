@@ -152,21 +152,6 @@ pràctiques (FCT) en una empresa del sector retail.
   <sub>Tauler principal de PostFormat: accessos ràpids i guia de configuració després d'un formateig.</sub>
 </p>
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <a href="https://postformat.es">
-    <img src="assets/postformat-card.png" alt="Targeta de PostFormat: logotip d'una P amb un llamp en lila i el lema «Prepara tu PC en minutos»" width="100%">
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://gypopti.com">
-    <img src="assets/gypoptis-card.jpg" alt="Targeta de GYP Optis: logotip amb una corona i lletres blanques i blaves sobre un fons fosc amb llamps" width="100%">
-  </a>
-</td>
-</tr>
-</table>
-
 ### 🔜 Pròxim projecte
 
 - [ ] Crear una **ISO pròpia de Windows** optimitzada.
