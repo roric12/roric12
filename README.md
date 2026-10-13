@@ -140,9 +140,32 @@ pràctiques (FCT) en una empresa del sector retail.
 
 | Projecte | Descripció | Tecnologies | Codi |
 |---|---|---|---|
-| Web d'optimització de PC per a gamers | Projecte propi amb una part web per ajudar a optimitzar PCs per jugar | TypeScript · CSS | 🔒 Repositori privat |
+| <img src="assets/gypoptis-icon.webp" alt="Icona de GYP Optis" height="20"> [GYP Optis](https://gypopti.com) | Projecte propi amb una part web per ajudar a optimitzar PCs per jugar | TypeScript · CSS | 🌐 Web pública · 🔒 Codi privat |
 | Script d'optimització de Windows | Automatitza ajustos de rendiment del sistema, dels serveis i de les aplicacions | PowerShell | 🔒 Repositori privat |
-| App de postformat | Ajuda a configurar un PC just després de formatejar-lo: instal·lació i configuració de jocs i optimització de les aplicacions i els serveis de Windows | Python | 🔒 Repositori privat |
+| <img src="assets/postformat-icon.png" alt="Icona de PostFormat" height="20"> [PostFormat](https://postformat.es) | Ajuda a configurar un PC just després de formatejar-lo: instal·lació i configuració de jocs i optimització de les aplicacions i els serveis de Windows | Python | 🌐 Web pública · 🔒 Codi privat |
+
+### 📸 Captures
+
+<p align="center">
+  <img src="assets/postformat-app.webp" alt="Captura del tauler principal de PostFormat, amb accessos ràpids a programes, Windows, gaming i controladors, i la llista de passos de configuració inicial" width="700">
+  <br>
+  <sub>Tauler principal de PostFormat: accessos ràpids i guia de configuració després d'un formateig.</sub>
+</p>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://postformat.es">
+    <img src="assets/postformat-card.png" alt="Targeta de PostFormat: logotip d'una P amb un llamp en lila i el lema «Prepara tu PC en minutos»" width="100%">
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://gypopti.com">
+    <img src="assets/gypoptis-card.jpg" alt="Targeta de GYP Optis: logotip amb una corona i lletres blanques i blaves sobre un fons fosc amb llamps" width="100%">
+  </a>
+</td>
+</tr>
+</table>
 
 ### 🔜 Pròxim projecte
 
