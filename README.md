@@ -195,20 +195,6 @@ Hi ha dos camins que m'interessen: l'enginyeria d'IA i la ciberseguretat. Encara
 
 ---
 
-## 📈 La meva activitat a GitHub
-
-<div align="center">
-
-<img height="150" alt="Estadístiques del meu GitHub"
-  src="https://github-readme-stats.vercel.app/api?username=Roric12&show_icons=true&theme=transparent&hide_border=true&locale=ca&title_color=7C3AED&icon_color=06B6D4">
-
-<img height="150" alt="Llenguatges que faig servir"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roric12&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=7C3AED">
-
-</div>
-
----
-
 ## 📫 Contacte
 
 <div align="center">
