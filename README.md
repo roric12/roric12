@@ -1,56 +1,24 @@
-<!--
-  PLANTILLA DE PARTIDA — Activitat 3: El meu repositori de perfil professional
-  ============================================================================
-  1. Substitueix TOTS els camps entre claudàtors [...]
-  2. Busca i reemplaça "roric12" pel teu usuari real de GitHub (apareix
-     diversos cops). A VS Code: Ctrl+H
-  3. Reescriu els textos amb les teves pròpies paraules.
-
-  El semàfor de la IA d'aquesta activitat és TARONJA: aquesta estructura és
-  suport, però el contingut final ha de ser teu i l'has d'entendre i validar.
-  Esborra aquest comentari quan acabis.
-
-  NOTA TÈCNICA: GitHub no executa JavaScript ni CSS als README. La
-  interactivitat d'aquesta portada es basa en tres coses que SÍ funcionen:
-    · imatges SVG que s'animen soles (el títol que s'escriu, la capçalera)
-    · seccions desplegables amb <details> (es despleguen en clicar)
-    · targetes que es generen al moment amb les teves dades reals
-  Les imatges venen de serveis externs gratuïts; si algun dia van lents o
-  cauen, la imatge no es veurà. Per això cada <img> té sempre un text "alt".
--->
-
-<!-- ╔══════════════════════════ PORTADA ══════════════════════════╗ -->
-
 <div align="center">
 
-<!-- Capçalera en onda. Canvia "color=0:0A66C2,100:00C6AB" pels teus colors -->
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C6AB&height=160&section=header&text=&fontSize=0"
   alt=""
   width="100%">
 
-<!-- Títol que s'escriu sol. Les frases van a "lines=", separades per ; -->
-<a href="https://github.com/roric12">
+<a href="https://github.com/Roric12">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Hola!+Em+dic+Marc+Bruguera+%F0%9F%91%8B;Estudiant+de+Sistemes+Microinform%C3%A0tics+i+Xarxes;Xarxes+%C2%B7+Ciberseguretat+%C2%B7+Scripting"
-    alt="Hola! Em dic Marc Bruguera. Estudiant de Sistemes Microinformàtics i Xarxes.">
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Hola!+S%C3%B3c+en+Marc+%F0%9F%91%8B;Estudiant+de+2n+d%27SMX+%C2%B7+Helpdesk;Automatitzaci%C3%B3+%C2%B7+IA+%C2%B7+Ciberseguretat"
+    alt="Hola! Sóc en Marc. Estudiant de 2n d'SMX · Helpdesk. Automatització · IA · Ciberseguretat.">
 </a>
-
-<!--
-  Per editar les frases del títol animat: el text va codificat per a URL.
-  Espai = +   ·  Punt i coma = separa frases  ·  à = %C3%A0, è = %C3%A8,
-  ç = %C3%A7, í = %C3%AD, ó = %C3%B3, ú = %C3%BA
-  Si et complica, fes servir https://readme-typing-svg.demolab.com per
-  generar-la amb un formulari i enganxa aquí l'URL que et doni.
--->
 
 <br>
 
 ![Estudiant SMX](https://img.shields.io/badge/Estudiant-SMX-0A66C2?style=for-the-badge)
-![Curs](https://img.shields.io/badge/Curs-1r-00C6AB?style=for-the-badge)
+![Curs](https://img.shields.io/badge/Curs-2n-00C6AB?style=for-the-badge)
+![Feina](https://img.shields.io/badge/Feina-Helpdesk-0A66C2?style=for-the-badge)
 ![Ubicació](https://img.shields.io/badge/Catalunya-🇪🇸-lightgrey?style=for-the-badge)
 
-<a href="mailto:el.teu.correu@exemple.com">
+<a href="mailto:alu.marc.bruguera@mataro.epiaedu.cat">
   <img src="https://img.shields.io/badge/Escriu--me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correu electrònic">
 </a>
 <a href="#-contacte">
@@ -59,12 +27,9 @@
 
 <br><br>
 
-<!-- Índex clicable: els enllaços salten als títols del document -->
-**[Qui sóc](#-qui-sóc) · [Estudis](#-què-estic-estudiant) · [Tecnologies](#%EF%B8%8F-competències-i-tecnologies) · [Projectes](#-projectes-i-pràctiques) · [Objectius](#-objectius) · [Contacte](#-contacte)**
+**[Qui sóc](#-qui-sóc) · [Experiència](#-experiència) · [Estudis](#-què-estic-estudiant) · [Tecnologies](#%EF%B8%8F-competències-i-tecnologies) · [Projectes](#-projectes-personals) · [Objectius](#-objectius) · [Contacte](#-contacte)**
 
 </div>
-
-<!-- ╚═════════════════════════════════════════════════════════════╝ -->
 
 ---
 
