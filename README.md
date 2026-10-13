@@ -188,21 +188,21 @@ pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
 
 **⏱️ Curt termini**
 
-Acabar el cicle amb bones notes i fer les pràctiques (FCT) en [tipus d'empresa].
+Acabar el grau mitjà i consolidar l'experiència en helpdesk i en gestió d'inventari.
 
 </td>
 <td width="33%" valign="top">
 
 **📆 Mitjà termini**
 
-Treballar com a [tècnic de suport / admin. de sistemes / tècnic de xarxes] i seguir formant-me en [àmbit].
+Fer un grau superior. Dubto entre DAM i ASIX i encara no ho tinc decidit.
 
 </td>
 <td width="33%" valign="top">
 
 **🎯 Llarg termini**
 
-[Especialitzar-me en ciberseguretat, continuar amb un grau superior d'ASIX...]
+Hi ha dos camins que m'interessen: l'enginyeria d'IA i la ciberseguretat. Encara no he triat.
 
 </td>
 </tr>
@@ -213,12 +213,7 @@ Treballar com a [tècnic de suport / admin. de sistemes / tècnic de xarxes] i s
 
 <br>
 
-- 🎮 [Interès 1]
-- 🎧 [Interès 2]
-- 🏃 [Interès 3]
-
-[Si algun es relaciona amb la informàtica, explica-ho breument: el muntatge del
-teu propi PC per jugar, un servidor domèstic per a música...]
+- [PENDENT: interessos personals]
 
 </details>
 
