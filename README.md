@@ -17,6 +17,7 @@
 ![Curs](https://img.shields.io/badge/Curs-2n-06B6D4?style=for-the-badge)
 ![Pràctiques](https://img.shields.io/badge/Pr%C3%A0ctiques-Helpdesk-7C3AED?style=for-the-badge)
 ![Ubicació](https://img.shields.io/badge/Catalunya-🇪🇸-06B6D4?style=for-the-badge)
+![Visites al perfil](https://komarev.com/ghpvc/?username=Roric12&label=Visites&color=7C3AED&style=for-the-badge)
 
 <a href="mailto:alu.marc.bruguera@mataro.epiaedu.cat">
   <img src="https://img.shields.io/badge/Escriu--me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Correu electrònic">
