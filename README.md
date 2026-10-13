@@ -35,26 +35,25 @@
 
 ## 👤 Qui sóc
 
-Em dic **Marc Bruguera** i tinc [edat] anys. Curso el **CFGM de Sistemes
-Microinformàtics i Xarxes** a [nom del centre].
+Em dic **Marc Bruguera** i tinc 17 anys. Curso **2n del CFGM de Sistemes
+Microinformàtics i Xarxes** a l'Escola Pia de Mataró.
 
-M'he decidit per aquest cicle perquè [el teu motiu real: sempre has desmuntat
-ordinadors, t'agrada resoldre problemes tècnics, et crida l'atenció la seguretat
-informàtica...]. El que més m'agrada d'aquest món és [el teu motiu personal].
+Compagino els estudis amb una feina de tècnic de helpdesk i amb projectes
+propis centrats en l'optimització i la configuració de Windows.
+[PENDENT: per què vas triar SMX i què és el que més t'agrada d'aquest món]
 
 <details>
 <summary><b>🔎 Tres coses més sobre mi</b> <i>(clica per desplegar)</i></summary>
 
 <br>
 
-- 🧩 [Una cosa que t'agrada fer i què t'ha ensenyat]
-- 🛠️ [El primer que vas arreglar o muntar tu mateix]
-- 📖 [Com aprens millor: provant, llegint documentació, mirant vídeos...]
+- 💼 Treballo de tècnic de helpdesk mentre estudio el cicle.
+- 🤖 Estic construint una aplicació pròpia que fa servir IA per automatitzar la gestió d'inventari de la meva feina.
+- 🛠️ Desenvolupo eines per optimitzar i deixar a punt PCs amb Windows.
 
 </details>
 
-> 💬 *"[Una frase que et defineixi professionalment. Exemple: m'agrada entendre
-> com funcionen les coses per dins abans de fer-les servir.]"*
+> 💬 *"[PENDENT: una frase que et defineixi professionalment]"*
 
 ---
 
