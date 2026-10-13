@@ -98,28 +98,28 @@ pràctiques (FCT) en una empresa del sector retail.
 
 <div align="center">
 
-**Sistemes operatius**
-
-<img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows" title="Windows">
-<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux">
-
-**Scripting i desenvolupament**
-
-<img src="https://skillicons.dev/icons?i=powershell" width="48" alt="PowerShell" title="PowerShell">
-<img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash" title="Bash">
-<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python">
-
-**Desenvolupament web**
-
-<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript">
-<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS">
-
-**Eines**
-
-<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" title="VS Code">
-<img src="https://skillicons.dev/icons?i=md" width="48" alt="Markdown" title="Markdown">
-<img src="assets/claude.svg" width="48" alt="Claude" title="Claude">
+<table>
+<tr>
+<th>Sistemes operatius</th>
+<th>Scripting i desenvolupament</th>
+<th>Desenvolupament web</th>
+<th>Eines</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows" title="Windows">&nbsp;<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux">
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=powershell" width="48" alt="PowerShell" title="PowerShell">&nbsp;<img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash" title="Bash">&nbsp;<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python">
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript">&nbsp;<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS">
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git">&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" title="VS Code">&nbsp;<img src="https://skillicons.dev/icons?i=md" width="48" alt="Markdown" title="Markdown">&nbsp;<img src="assets/claude.svg" width="48" alt="Claude" title="Claude">
+</td>
+</tr>
+</table>
 
 </div>
 
