@@ -217,7 +217,7 @@ Hi ha dos camins que m'interessen: l'enginyeria d'IA i la ciberseguretat. Encara
   <img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="El meu GitHub">
 </a>
 <a href="mailto:alu.marc.bruguera@mataro.epiaedu.cat">
-  <img src="https://img.shields.io/badge/Correu-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="El meu correu">
+  <img src="https://img.shields.io/badge/alu.marc.bruguera%40mataro.epiaedu.cat-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="El meu correu: alu.marc.bruguera@mataro.epiaedu.cat">
 </a>
 
 <br><br>
