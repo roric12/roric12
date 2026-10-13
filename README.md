@@ -15,7 +15,7 @@
 
 ![Estudiant SMX](https://img.shields.io/badge/Estudiant-SMX-0A66C2?style=for-the-badge)
 ![Curs](https://img.shields.io/badge/Curs-2n-00C6AB?style=for-the-badge)
-![Feina](https://img.shields.io/badge/Feina-Helpdesk-0A66C2?style=for-the-badge)
+![Pràctiques](https://img.shields.io/badge/Pr%C3%A0ctiques-Helpdesk-0A66C2?style=for-the-badge)
 ![Ubicació](https://img.shields.io/badge/Catalunya-🇪🇸-lightgrey?style=for-the-badge)
 
 <a href="mailto:alu.marc.bruguera@mataro.epiaedu.cat">
@@ -27,7 +27,7 @@
 
 <br><br>
 
-**[Qui sóc](#-qui-sóc) · [Experiència](#-experiència) · [Estudis](#-què-estic-estudiant) · [Tecnologies](#%EF%B8%8F-competències-i-tecnologies) · [Projectes](#-projectes-personals) · [Objectius](#-objectius) · [Contacte](#-contacte)**
+**[Qui sóc](#-qui-sóc) · [Pràctiques](#-pràctiques-fct) · [Estudis](#-què-estic-estudiant) · [Tecnologies](#%EF%B8%8F-competències-i-tecnologies) · [Projectes](#-projectes-personals) · [Objectius](#-objectius) · [Contacte](#-contacte)**
 
 </div>
 
@@ -38,23 +38,23 @@
 Em dic **Marc Bruguera** i tinc 17 anys. Curso **2n del CFGM de Sistemes
 Microinformàtics i Xarxes** a l'Escola Pia de Mataró.
 
-Compagino els estudis amb una feina de tècnic de helpdesk i amb projectes
-propis centrats en l'optimització i la configuració de Windows.
+Compagino els estudis amb les pràctiques del cicle com a tècnic de helpdesk i
+amb projectes propis centrats en l'optimització i la configuració de Windows.
 [PENDENT: per què vas triar SMX i què és el que més t'agrada d'aquest món]
 
 ### 🔎 Tres coses més sobre mi
 
-- 💼 Treballo de tècnic de helpdesk mentre estudio el cicle.
-- 🤖 Estic construint una aplicació pròpia que fa servir IA per automatitzar la gestió d'inventari de la meva feina.
+- 💼 Faig les pràctiques del cicle com a tècnic de helpdesk en una empresa de retail.
+- 🤖 Estic construint una aplicació pròpia que fa servir IA per automatitzar la gestió d'inventari de l'empresa on faig les pràctiques.
 - 🛠️ Desenvolupo eines per optimitzar i deixar a punt PCs amb Windows.
-
-> 💬 *"[PENDENT: una frase que et defineixi professionalment]"*
 
 ---
 
-## 💼 Experiència
+## 💼 Pràctiques (FCT)
 
-### 🖥️ Tècnic de helpdesk · Empresa del sector retail
+Faig l'estada de pràctiques del cicle (FCT) en una empresa del sector retail.
+
+### 🖥️ Tècnic de helpdesk en pràctiques · Empresa del sector retail
 
 **Suport tècnic.** Atenc les incidències informàtiques del personal de l'empresa
 com a tècnic de helpdesk.
@@ -72,7 +72,7 @@ m'ha de permetre reduir la feina manual i mantenir l'inventari al dia.
 ## 📚 Què estic estudiant
 
 Actualment curso **2n d'SMX** a l'Escola Pia de Mataró i estic fent les
-pràctiques (FCT) en una empresa.
+pràctiques (FCT) en una empresa del sector retail.
 
 ### 📦 Mòduls del cicle
 
@@ -158,7 +158,7 @@ pràctiques (FCT) en una empresa.
 
 **⏱️ Curt termini**
 
-Acabar el grau mitjà i consolidar l'experiència en helpdesk i en gestió d'inventari.
+Acabar el grau mitjà i aprofitar les pràctiques per consolidar l'experiència de helpdesk i gestió d'inventari.
 
 </td>
 <td width="33%" valign="top">
