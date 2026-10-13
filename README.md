@@ -42,16 +42,11 @@ Compagino els estudis amb una feina de tècnic de helpdesk i amb projectes
 propis centrats en l'optimització i la configuració de Windows.
 [PENDENT: per què vas triar SMX i què és el que més t'agrada d'aquest món]
 
-<details>
-<summary><b>🔎 Tres coses més sobre mi</b> <i>(clica per desplegar)</i></summary>
-
-<br>
+### 🔎 Tres coses més sobre mi
 
 - 💼 Treballo de tècnic de helpdesk mentre estudio el cicle.
 - 🤖 Estic construint una aplicació pròpia que fa servir IA per automatitzar la gestió d'inventari de la meva feina.
 - 🛠️ Desenvolupo eines per optimitzar i deixar a punt PCs amb Windows.
-
-</details>
 
 > 💬 *"[PENDENT: una frase que et defineixi professionalment]"*
 
@@ -59,10 +54,7 @@ propis centrats en l'optimització i la configuració de Windows.
 
 ## 💼 Experiència
 
-<details open>
-<summary><b>🖥️ Tècnic de helpdesk · Empresa del sector retail</b></summary>
-
-<br>
+### 🖥️ Tècnic de helpdesk · Empresa del sector retail
 
 **Suport tècnic.** Atenc les incidències informàtiques del personal de l'empresa
 com a tècnic de helpdesk.
@@ -75,19 +67,14 @@ se'n registra.
 d'inventari amb IA. Per fer-ho, estic construint una aplicació pròpia que
 m'ha de permetre reduir la feina manual i mantenir l'inventari al dia.
 
-</details>
-
 ---
 
 ## 📚 Què estic estudiant
 
 Actualment curso **2n d'SMX** a l'Escola Pia de Mataró i estic fent les
-pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
+pràctiques (FCT) en una empresa.
 
-<details open>
-<summary><b>📦 Mòduls del cicle</b></summary>
-
-<br>
+### 📦 Mòduls del cicle
 
 | Mòdul | Què hi aprenc |
 |---|---|
@@ -97,20 +84,13 @@ pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
 | Aplicacions ofimàtiques | Documentació tècnica, fulls de càlcul i Markdown |
 | Seguretat informàtica | Còpies de seguretat, permisos i bones pràctiques |
 
-</details>
-
-<details>
-<summary><b>🎯 Què vull aprendre</b></summary>
-
-<br>
+### 🎯 Què vull aprendre
 
 - [ ] Aprofundir en l'**automatització** amb PowerShell, Bash i Python
 - [ ] Aplicar la **IA** a eines pràctiques, començant per la meva app d'inventari
 - [ ] Fonaments de **ciberseguretat**: enduriment de sistemes i vulnerabilitats
 - [ ] Crear una **ISO pròpia de Windows** optimitzada
 - [ ] Decidir entre el grau superior de **DAM** o d'**ASIX**
-
-</details>
 
 ---
 
@@ -142,10 +122,7 @@ pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
 
 </div>
 
-<details>
-<summary><b>📊 On estic ara mateix (autoavaluació)</b></summary>
-
-<br>
+### 📊 On estic ara mateix (autoavaluació)
 
 | Àmbit | Nivell |
 |---|---|
@@ -155,16 +132,11 @@ pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
 | Xarxes | ![40%](https://img.shields.io/badge/-40%25-00C6AB?style=flat-square) |
 | Ciberseguretat | ![20%](https://img.shields.io/badge/-20%25-lightgrey?style=flat-square) |
 
-</details>
-
 ---
 
 ## 💻 Projectes personals
 
-<details open>
-<summary><b>Els meus projectes</b></summary>
-
-<br>
+### Els meus projectes
 
 | Projecte | Descripció | Tecnologies | Codi |
 |---|---|---|---|
@@ -172,16 +144,9 @@ pràctiques (FCT) en una empresa. Desplega cada bloc per veure què hi treballo:
 | Script d'optimització de Windows | Automatitza ajustos de rendiment del sistema, dels serveis i de les aplicacions | PowerShell | 🔒 Repositori privat |
 | App de postformat | Ajuda a configurar un PC just després de formatejar-lo: instal·lació i configuració de jocs i optimització de les aplicacions i els serveis de Windows | Python | 🔒 Repositori privat |
 
-</details>
-
-<details>
-<summary><b>🔜 Pròxim projecte</b></summary>
-
-<br>
+### 🔜 Pròxim projecte
 
 - [ ] Crear una **ISO pròpia de Windows** optimitzada.
-
-</details>
 
 ---
 
@@ -213,14 +178,9 @@ Hi ha dos camins que m'interessen: l'enginyeria d'IA i la ciberseguretat. Encara
 </tr>
 </table>
 
-<details>
-<summary><b>🌱 I fora de la informàtica...</b></summary>
-
-<br>
+### 🌱 I fora de la informàtica...
 
 - [PENDENT: interessos personals]
-
-</details>
 
 ---
 
