@@ -151,13 +151,6 @@ pràctiques (FCT) en una empresa del sector retail.
 | Script d'optimització de Windows | Automatitza ajustos de rendiment del sistema, dels serveis i de les aplicacions | PowerShell | 🔒 Repositori privat |
 | <img src="assets/postformat-icon.png" alt="Icona de PostFormat" height="20"> [PostFormat](https://postformat.es) | Ajuda a configurar un PC just després de formatejar-lo: instal·lació i configuració de jocs i optimització de les aplicacions i els serveis de Windows | Python | 🌐 Web pública · 🔒 Codi privat |
 
-### 📸 Captures
-
-<p align="center">
-  <img src="assets/postformat-app.webp" alt="Captura del tauler principal de PostFormat, amb accessos ràpids a programes, Windows, gaming i controladors, i la llista de passos de configuració inicial" width="700">
-  <br>
-  <sub>Tauler principal de PostFormat: accessos ràpids i guia de configuració després d'un formateig.</sub>
-</p>
 
 ### 🔜 Pròxim projecte
 
